@@ -11,8 +11,8 @@
 using namespace std;
 
 int main() {
-	cout << "Welcome to the sales data" <<endl;
-	cout << "The list of all the sold items is as follow: " << endl;
+	cout << "Welcome to the sales survey project" <<endl;
+	cout << "all the survey information is follow: " << endl;
 	SalesInfo sales;
 	sales.displayData();
 	return 0;
